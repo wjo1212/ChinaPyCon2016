@@ -1,7 +1,7 @@
 # ChinaPyCon2016
 Keynotes of 3 topics shared in PyCon China 2016 Shanghai (9.10), Shenzhen (9.25), Beijing (10.15)
 
-### Python Big Data Workflow Scheduler (Shanghai 9.10)  [ppt](https://raw.githubusercontent.com/wjo1212/ChinaPyCon2016/master/PythonBigData_WorkflowScheduler/PythonBigData_WorkflowScheduler.pdf)
+### Python Big Data Workflow Scheduler (Shanghai 9.10) <a target="_blank" href="https://raw.githubusercontent.com/wjo1212/ChinaPyCon2016/master/PythonBigData_WorkflowScheduler/PythonBigData_WorkflowScheduler.pd">[ppt]</a>
 大数据技术的百花齐放，工作流与任务调度是其中不可或缺的一环，本议题重点介绍了基于纯Python的Apache Airflow与Spotify Luigi方案，覆盖问题调整、原理技术、工具扩展、最佳实践与未来发展等。也涉及了其他非Python的解决方案如Linkedin Azkaban，Apache Oozie等。
 
 ### Python hooking, patching and injection
